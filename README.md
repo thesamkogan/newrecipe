@@ -1,0 +1,8 @@
+# Authentication
+
+After cloning or downloading, don't forget to install with `npm install`
+
+Once you've ensured that `postgres` is running (e.g. by trying to start a `psql` shell), you can execute `npm run seed` to seed the database with fake data.
+
+Finally, fire it up with `npm run start:dev` and go to http://127.0.0.1:1337/.
+# newrecipe
